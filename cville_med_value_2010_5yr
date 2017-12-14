@@ -1,5 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01
-Id,Id2,Geography,Estimate; Median value (dollars),Margin of Error; Median value (dollars)
+Id,Id2,Geography,Est_med_value,MOE_med_value
 1400000US51003010100,51003010100,"Census Tract 101, Albemarle County, Virginia",445300,36761
 1400000US51003010201,51003010201,"Census Tract 102.01, Albemarle County, Virginia",326200,35351
 1400000US51003010202,51003010202,"Census Tract 102.02, Albemarle County, Virginia",476700,77280
@@ -12,8 +11,8 @@ Id,Id2,Geography,Estimate; Median value (dollars),Margin of Error; Median value 
 1400000US51003010700,51003010700,"Census Tract 107, Albemarle County, Virginia",217200,17155
 1400000US51003010800,51003010800,"Census Tract 108, Albemarle County, Virginia",270200,49700
 1400000US51003010901,51003010901,"Census Tract 109.01, Albemarle County, Virginia",297300,39532
-1400000US51003010902,51003010902,"Census Tract 109.02, Albemarle County, Virginia",-,**
-1400000US51003010903,51003010903,"Census Tract 109.03, Albemarle County, Virginia",-,**
+1400000US51003010902,51003010902,"Census Tract 109.02, Albemarle County, Virginia",NA,NA
+1400000US51003010903,51003010903,"Census Tract 109.03, Albemarle County, Virginia",NA,NA
 1400000US51003011000,51003011000,"Census Tract 110, Albemarle County, Virginia",623300,45794
 1400000US51003011100,51003011100,"Census Tract 111, Albemarle County, Virginia",306400,20486
 1400000US51003011201,51003011201,"Census Tract 112.01, Albemarle County, Virginia",370500,58110
